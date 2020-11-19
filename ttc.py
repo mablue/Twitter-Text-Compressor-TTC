@@ -1,7 +1,11 @@
 # TTC: Twitter text compressing script
 # developer: Masoud Azizi
 # Email: mablue92@gmail.com
-i0="masoud azizi\nJafar AzizI \n amir mohammad AZIZI."
+
+
+i0="""masoud azizi
+Jafar AzizI 
+ amir mohammad AZIZI."""
 print(i0)
 
 i1=i0.lower()
