@@ -8,11 +8,24 @@ Change i0 value and run in in py3 interpreter to get the result
 masoud azizi
 Jafar AzizI
  amir mohammad AZIZI.
+ 
+ 
 ['masoud', 'azizi\njafar', 'azizi', '\n', 'amir', 'mohammad', 'azizi.']
-['Masoud', 'Azizi\njafar', 'Azizi', '\n', 'Amir', 'Mohammad', 'Azizi.']
+
+
+['Masoud', 'Azizi\njafar', 'Azizi', '\n', 'Amir', 'Mohammad', 'Azizi.'
+
+
 =======RESULT=======
+
+
 MasoudAzizi
+
+
 jafarAzizi
+
+
 AmirMohammadAzizi.
+
 
 [Program finished]
